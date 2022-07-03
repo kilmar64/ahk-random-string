@@ -15,5 +15,5 @@ The function ```RandomString(Len, [SymbolsStr])``` provides an interface for ran
 ; Use function
 RandomString(5) ; 8tRj0
 RandomString(10) ; cQ5bHr2F9g
-RandomString(5, "qwe"); eqeew
+RandomString(5, "qwe") ; eqeew
 ```
